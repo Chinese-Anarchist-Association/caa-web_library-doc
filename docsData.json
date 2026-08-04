@@ -18,6 +18,15 @@
         }
     },
     {
+        "id": 160,
+        "uri": "$$$libraryDocs_baseUrl_1$$$/",
+        "fileName":"test.txt",
+        "classShow":{
+            "path":"/测试",
+            "name":"这就是个测试文件.txt"
+        }
+    },
+    {
         "id": 1,
         "uri": "$$$libraryDocs_baseUrl_1$$$gt/qvsl/",
         "fileName": "1.pdf",
