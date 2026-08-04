@@ -9,6 +9,24 @@
         }
     },
     {
+        "id": 159,
+        "uri": "$$$libraryDocs_baseUrl_1$$$yc/a/",
+        "fileName":"glybvn.pdf",
+        "classShow":{
+            "path":"/原创/无政府主义",
+            "name":"纲领⼀百周年：全球有组织⽆政府主义者之声（第⼆卷）.pdf"
+        }
+    },
+    {
+        "id": 160,
+        "uri": "$$$libraryDocs_baseUrl_1$$$yc/course/",
+        "fileName": "caagwtuggxji.mdz",
+        "classShow": {
+            "path": "/原创/教程",
+            "name": "CAA官网图书馆贡献教程.mdz"
+        }
+    },
+    {
         "id": 1,
         "uri": "$$$libraryDocs_baseUrl_1$$$gt/qvsl/",
         "fileName": "1.pdf",
@@ -1322,6 +1340,15 @@
         "classShow": {
             "path": "/学说概述",
             "name": "鲁道夫罗克：温和的无政府主义者.pdf"
+        }
+    },
+    {
+        "id": 161,
+        "uri": "$$$libraryDocs_baseUrl_1$$$yc/",
+        "fileName": "tlvfdxw.txt",
+        "classShow": {
+            "path": "/原创",
+            "name": "逃离政府的虚伪.txt"
         }
     }
 ]
