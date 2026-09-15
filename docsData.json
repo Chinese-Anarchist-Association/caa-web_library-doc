@@ -1341,5 +1341,68 @@
             "path": "/学说概述",
             "name": "鲁道夫罗克：温和的无政府主义者.pdf"
         }
+    },
+    {
+        "id": 161,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "161.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "大杉荣自叙  一个叛逆者的独白 ([日]大杉荣  徐静波) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+        }
+    },
+    {
+        "id": 162,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "162.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "巴枯宁政治哲学著作集(第一卷) ([俄] 巴枯宁 著 [德] 鲁道夫·洛克 编) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+        }
+    },
+    {
+        "id": 163,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "163.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "腹腹时计（东亚反日武装阵线狼） 中文.pdf"
+        }
+    },
+    {
+        "id": 164,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "164.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "戈尔德曼散文集.pdf"
+        }
+    },
+    {
+        "id": 165,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "165.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "《默里布克钦读本》中文译本（第2版）.pdf"
+        }
+    },
+    {
+        "id": 166,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "166.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "巴枯宁政论选集_中文译本最终.pdf"
+        }
+    },
+    {
+        "id": 167,
+        "uri": "$$$libraryDocs_baseUrl_1$$$xj/",
+        "fileName": "167.pdf.enc",
+        "classShow": {
+            "path": "/选集及文集",
+            "name": "《马赫诺文集》精翻.pdf"
+        }
     }
 ]
