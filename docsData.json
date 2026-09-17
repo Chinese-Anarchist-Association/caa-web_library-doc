@@ -1404,5 +1404,86 @@
             "path": "/选集及文集",
             "name": "《马赫诺文集》精翻.pdf"
         }
+    },
+    {
+        "id": 168,
+        "uri": "$$$libraryDocs_baseUrl_1$$$pkj/",
+        "fileName": "168.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁、克鲁泡特金哲学",
+            "name": "《巴枯宁的政治哲学》精翻.pdf"
+        }
+    },
+    {
+        "id": 169,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "169.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Michail BakuninOpere CompleteVolume 1.pdf"
+        }
+    },
+    {
+        "id": 170,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "170.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin Michail Opere Complete. Volume 2.pdf"
+        }
+    },
+    {
+        "id": 171,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "171.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin MichailOpere Complete. Volume 3.pdf"
+        }
+    },
+    {
+        "id": 172,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "172.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin Michail Opere Complete. Volume 4.pdf"
+        }
+    },
+    {
+        "id": 173,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "173.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin MichailOpere Complete. Volume 5.pdf"
+        }
+    },
+    {
+        "id": 174,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "174.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin MichailOpere Complete. Volume 6.pdf"
+        }
+    },
+    {
+        "id": 175,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "175.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Michail BakuninOpere CompleteVolume 7.pdf"
+        }
+    },
+    {
+        "id": 176,
+        "uri": "$$$libraryDocs_baseUrl_1$$$bkl/",
+        "fileName": "176.pdf.enc",
+        "classShow": {
+            "path": "/巴枯宁全集",
+            "name": "Bakunin MichailOpere Complete. Volume 8.pdf"
+        }
     }
 ]
