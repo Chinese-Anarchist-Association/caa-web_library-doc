@@ -1494,5 +1494,14 @@
             "path": "/原创",
             "name": "三重结构.pdf"
         }
+    },
+    {
+        "id": 178,
+        "uri": "$$$libraryDocs_baseUrl_1$$$yc/",
+        "fileName": "gl.pdf.enc",
+        "classShow": {
+            "path": "/原创",
+            "name": "组织原则与基本战略纲领（第六版）.pdf"
+        }
     }
 ]
